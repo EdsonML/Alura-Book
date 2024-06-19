@@ -2,5 +2,5 @@
     --cor-de-fundo : #EBECEE 
 }
 body{
-    background-color: #EBECEE;  var
+    background-color: #EBECEE; var:(--cor-de-fundo)
 }
