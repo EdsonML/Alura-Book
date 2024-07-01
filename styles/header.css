@@ -7,8 +7,8 @@
     background-position: center;
 }
 
--.cabecalho {
-    background-color: var(--branco);
+.cabecalho {
+    background-color: var(--cor-defundo);
     display: flex;
     justify-content: space-between;
     position: relative;
