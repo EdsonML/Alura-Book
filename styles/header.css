@@ -9,8 +9,8 @@
 
 .cabecalho{
     background-color: var(--cor-defundo);
-    display: flex;
-    justify-content: space-between;
+    display: flexbox;
+    justify-content: ;
     position: relative;
 }
 
