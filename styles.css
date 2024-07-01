@@ -3,15 +3,9 @@
 :root {
     --cor-defundo: #ebecee;
     --branco: #FFFFFF;
-
 }
 
 body {
     background-color: var(--cor-defundo);
-
-}
-
-h1 {
-    background-color: white;
 
 }
