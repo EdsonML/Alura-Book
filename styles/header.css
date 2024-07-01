@@ -1,12 +1,10 @@
-.cabecalho__menu-hamburger{
+.cabeçalho__menu-hamburguer {
     width: 24px;
     height: 24px;
     background-image: url("../img/Menu.svg");
-    display: flex;
-    justify-content: space-between;
+    display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
-
 }
 
 .cabecalho{
@@ -21,15 +19,6 @@
     align-items: center;
 }
 
-.cabecalho__imagem{
-    padding: 1em;
-}
-
-.lista-menu{
-    display: none;
-    position: absolute;
-    top: 100%;
-}
-
-.container__botao:checked~.lista-menu{
+.container__botao:checked~.lista-menu {
     display: block;
+}
