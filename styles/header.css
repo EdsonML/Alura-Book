@@ -1,4 +1,4 @@
-.cabecalho__menu-hamburger{
+.cabecalho__menu-hamburger {
     width: 38px;
     height: 38px;
     background-image: url("../img/Menu.svg");
@@ -7,29 +7,28 @@
     background-position: center;
 }
 
-.cabecalho{
+.cabecalho {
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
     position: relative;
 }
 
-.container{
+.container {
     display: flex;
     align-items: center;
 }
 
-.cabecalho__imagem{
+.cabecalho__imagem {
     padding: 1em;
 }
 
-.lista-menu{
+.lista-menu {
     display: none;
     position: absolute;
     top: 100%;
 }
 
-.container__botao:checked~.lista-menu{
+.container__botao:checked~.lista-menu {
     display: block;
 }
-
