@@ -39,8 +39,8 @@
     background-color: var(--branco);
 }
 .lista-menu__link{
-    background:var(--azul-degrade)
+    background:var(--azul-degrade);
     -webkit-background-clip: text;
-    -webkit-text:tranparent;
+    -webkit-text:transparent;
     background-clip: text;
 }
