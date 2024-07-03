@@ -33,9 +33,10 @@
     display: block;
 }
 
-.lista-menu__titulo, menuitem{
+.lista-menu__titulo, .lista-menu__item{
     padding: 1em;
     background-color: var(--branco);
 }
-
+.lista-menu__link{
+    background:var(--azul);
 }
