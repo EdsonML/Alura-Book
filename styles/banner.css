@@ -1,16 +1,16 @@
-.banners{
+.banner{
     background-color: var(--azul-degrade);
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
 }
 
-.banners__titulo{
+.banner__titulo{
     font-size: 16px;
     font-weight: 700;
 }
 
-.banners__text{
+.banner__text{
     font-weight: 500;
     margin: 1em 0;
 }
