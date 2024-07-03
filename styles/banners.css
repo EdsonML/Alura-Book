@@ -1,6 +1,6 @@
 .banners{
     background-color: var(--azul-degrade);
-    color:var(--branco)
+    color:var(--branco);
     text-align: center;
     pading:2,5em 2em;
 }
