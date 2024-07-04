@@ -2,17 +2,26 @@
 @import url("styles/banner.css");
 
 :root {
-    --cor-defundo: #ebecee;
-    --branco: #FFFFFF;
-    --azul-degrade: linear-gradient(97.54 deg, #OO2F52 35,42%; #326589 165,37%);
-    --laranja: #eb9e00;
+    :root {
+        --cor-de-fundo: #EBECEE;
+        --branco: #FFFFFF;
+        --laranja: #EB9B00;
+        --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+        --fonte-principal: "Poppins";
+
+    }
+    
     font: --principal;
 }
 
 body {
     background-color: var(--cor-defundo);
-    
+    font-family:var(--fonte-principal);
+    color:var(--branco);
+    font-size: 16px;
+    font-weight: 400;
 }
+
 
 h1 {
     background-color: white;
