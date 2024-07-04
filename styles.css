@@ -2,7 +2,6 @@
 @import url("styles/banner.css");
 
 :root {
-    :root {
         --cor-de-fundo: #EBECEE;
         --branco: #FFFFFF;
         --laranja: #EB9B00;
@@ -11,9 +10,6 @@
 
     }
     
-    font: --principal;
-}
-
 body {
     background-color: var(--cor-defundo);
     font-family:var(--fonte-principal);
