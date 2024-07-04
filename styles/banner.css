@@ -1,8 +1,10 @@
 .banner{
-    background: var(--azul);
-    color: var(--branco);
-    text-align: center;
-    padding: 2.5em 2em;
+    .banner {
+        background: var(--azul-degrade);
+        color: var(--branco);
+        text-align: center;
+    }
+    
 }
 
 .banner__titulo{
