@@ -4,6 +4,9 @@
 :root {
     --cor-defundo: #ebecee;
     --branco: #FFFFFF;
+    --azul-degrade: linear-gradient(97.54 deg, #OO2F52 35,42%; #326589 165,37%);
+    --laranja: #eb9e00;
+    font: --principal;
 }
 
 body {
