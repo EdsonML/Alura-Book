@@ -9,7 +9,7 @@
 .topicos__itens{
     color: var(--branco);
     font-weight: 300
-    margin botton: 1em;
+    margin botton: 1em 0em;
 }
 
 .topicos__link{
