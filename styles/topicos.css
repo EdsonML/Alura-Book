@@ -1,8 +1,9 @@
 
 .topicos{       
     background: var(--azul-degrade);
-    text align: center; 
-    padding 1em  0em;
+    color: var(--branco);
+    text-align: center;
+    padding: 2.5em 2em;
 }
 
 .topicos__itens{
