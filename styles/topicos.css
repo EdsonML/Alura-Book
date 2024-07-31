@@ -5,7 +5,15 @@
     padding 1em  0;
 }
 
+
+
+
+
 .topicos__listas{
+
+    
+
+.topicos__itens{
     color: var(--branco);
     font-weight: 300
     margin botton: 1em;
