@@ -1,17 +1,9 @@
 
 .topicos{
-    background-color: var(--azul-degrade);
+    color var(--azul-degrade);
     text align: center; 
     padding 1em  0em;
 }
-
-
-
-
-
-.topicos__listas{
-
-    
 
 .topicos__itens{
     color: var(--branco);
