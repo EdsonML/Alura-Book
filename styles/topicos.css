@@ -15,12 +15,8 @@
 .topicos__link{
     color: var(--branco);
     padding: 1em 0,5em;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 700;
     text-decoration: nome;
     
-}
-
-.topicos__itens{
-    margin: 2em 1em;
 }
