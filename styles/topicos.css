@@ -1,7 +1,7 @@
 
 .topicos{       
     background: var(--azul-degrade);
-    color: var(--branco);
+    color: var(--laranja);
     text-align: center;
     padding: 1em 0em;
 }
@@ -9,7 +9,7 @@
 .topicos__itens{
     color: var(--branco);
     font-weight: 300
-    margin botton: 1em 2em;
+    margin-bottom: 1em;
 }
 
 .topicos__link{
