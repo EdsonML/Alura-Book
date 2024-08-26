@@ -4,8 +4,9 @@
 }
 
 .contato__titulo {
-    font-size: 50px;
+    font-size: 18px;
     font-weight: 500;
+    position: initial;
 }
 
 .contato__texto {
