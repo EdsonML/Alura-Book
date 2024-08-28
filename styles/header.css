@@ -65,6 +65,10 @@
     font-weight: 700;
     }
     
+    .opcoes{
+        display: none;
+        }
+
     @media screen and (min-width: 1024px){
         .opcoes{
         display: flex;
@@ -77,3 +81,4 @@
         text-decoration: none;
         color: var(--preto);
         }
+        
