@@ -65,3 +65,6 @@
     text-decoration: none;
     color: var(--preto);
 }
+.opcoes{
+    display: none;
+}
