@@ -55,6 +55,9 @@
 
 .container__titulo {
     display: none;
+.container__texto{
+        display: none;
+}
 
     @media screen and (min-width: 1024px) {
         .container__titulo {
@@ -102,10 +105,15 @@
                     text-decoration: none;
                     color: var(--preto);
                 }
-
                 .cabecalho {
                     padding: 0 2em;
                 }
                 .opcoes {
                     margin-right: auto;
+
+@media screen and (min-width:
+1728px) {
+.container__texto{
+display: block;
                 }
+            }
