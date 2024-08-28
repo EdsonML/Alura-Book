@@ -116,12 +116,8 @@
 
 .opcoes {
     margin-right: auto;
-
-@media screen {
-    
 }
 @media screen and (min-width: 1728px) {
 .container__texto {
     display: block;
-}
 }
