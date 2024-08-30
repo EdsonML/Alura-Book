@@ -88,6 +88,9 @@
             text-decoration: none;
             color: var(--preto);
             }
+            .container__imagem--transparente{
+                display:none;
+            }
             .cabecalho__menu-hamburguer{
                 display: none;}
 
@@ -95,6 +98,7 @@
                     display: block;
                     width: auto;
                     }
+
                     }
             }
        
