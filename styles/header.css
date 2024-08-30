@@ -84,4 +84,7 @@
         .container__titulo--negrito{
         font-weight: 700;
         }
+        .container__imagem{
+            display: none;
+        }
         }
