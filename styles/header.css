@@ -89,7 +89,8 @@
             color: var(--preto);
             }
             .cabecalho__menu-hamburguer{
-                display: none;
+                display: none;}
+                
                 .opcoes__botao:checked~.lista-menu{
                     display: block;
                     width: auto;
