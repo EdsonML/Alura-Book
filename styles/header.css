@@ -135,4 +135,8 @@
       .container__texto {
         display: block;
       }
-}
+      .cabecalho{
+        space-between;
+        position: relative;
+      }: 
+    }
