@@ -121,7 +121,15 @@
         color: var(--preto);
     }
 
+<<<<<<< HEAD
+    .cabecalho {
+        padding: 0 2em;
+    }
+
+    .opcoes {
+=======
        .opcoes {
+>>>>>>> 7de6a1fa4c962bdf61d65b6bfb74f5122e4e4208
         margin-right: auto;
     }
 
