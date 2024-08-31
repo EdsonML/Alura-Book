@@ -126,7 +126,7 @@
     }
 
     .opcoes {
-        margin-right: auto;
+        margin-inline-start: auto;
     }
 
     .container__texto {
