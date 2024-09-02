@@ -21,6 +21,7 @@
 
 .container__texto {
     display: none;
+  }
 
 .container__botao {
     display: none;
@@ -132,7 +133,7 @@
         margin-right: auto;
     }
 
-      }
+   
       .container__texto {
         display: block;
       }
