@@ -18,6 +18,7 @@
     display: flex;
     align-items: center;
 }
+
 .container__texto {
     display: none;
 
@@ -131,7 +132,6 @@
         margin-right: auto;
     }
 
-    
       }
       .container__texto {
         display: block;
