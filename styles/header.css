@@ -18,6 +18,8 @@
     display: flex;
     align-items: center;
 }
+.container__texto {
+    display: none;
 
 .container__botao {
     display: none;
@@ -129,14 +131,10 @@
         margin-right: auto;
     }
 
-    .container__texto {
-        display: none;
+    
       }
       .container__texto {
         display: block;
       }
-      .cabecalho{
-        space-between;
-        position: relative;
-      }: 
+      
     }
