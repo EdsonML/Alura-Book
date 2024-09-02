@@ -22,9 +22,7 @@
 .container__botao {
     display: none;
 }
-.container__texto {
-    display: block;
-    
+
 .cabecalho__imagem {
     padding: 1em;
 }
@@ -137,4 +135,8 @@
       .container__texto {
         display: block;
       }
-          }
+      .cabecalho{
+        space-between;
+        position: relative;
+      }: 
+    }
